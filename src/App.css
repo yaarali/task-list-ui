@@ -1,0 +1,20 @@
+.App {
+  margin: 5px;
+
+  .grid-container {
+    display: flex;
+  }
+  .grid-item {
+    flex: 50%;
+  }
+}
+.add-btn {
+  float: right;
+}
+
+.center {
+  margin: auto;
+  width: 90%;
+  border: 3px solid rgb(220, 220, 220);
+  padding: 10px;
+}
